@@ -49,3 +49,10 @@ secure : true
 
 **Google API**
 `AIzaSyDId_oN6acZT-UMHTfYEZUgIcl4GVn1s6g`
+︎︎︎ ︎︎︎ ︎︎︎
+
+**Google Engine id**
+`2166875ec165a6c21`
+
+**Giphy API**
+`xsBNwSedRrwrwn1ZyjVRta93i00yhpiJ`
