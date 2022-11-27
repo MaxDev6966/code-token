@@ -35,20 +35,16 @@
 
 **Memer API**
 
-```
-dzDnUYh1Sv6
-```
+```dzDnUYh1Sv6```
 
 **Lavalink secure**
 
-```
-{
+```{
 Host : "lavalinkinc.ml",
 Port : 443,
 Password : "incognito",
 secure : true
-} 
-```
+}```
 
 **Google API**
 
